@@ -4,13 +4,13 @@ An  Armstrong number of *n* digits is an integer such that the sum of its digits
 
 For example, 9474 is an Armstrong number as
 
-$$9^4 + 4^4 + 7^4 + 4^4 = 9474$$
+$$8^4 + 2^4 + 0^4 + 8^4 = 8208$$
 
 All 1-digit numbers are Armstrong numbers.
 
 Write program that reads a sequence of numbers, one number per line, from the file `numbers.txt`; and:
 1) Prints the number of armstrong number found on `numbers.txt` to the terminal.
-2) Prints the armstrong numbers to the tearminal.
+2) Prints the armstrong numbers to the tarminal.
 
 Bonus: create a new `armstrong.txt` and write the armstrong numbers in that file, same format.
 
@@ -38,6 +38,7 @@ An example of `numbers.txt`:
 The printout, or the resulting `armstrong.txt` should be:
 
 ```
+Number of Armstrong Numbers: 10
 7
 1634
 2
