@@ -2,7 +2,7 @@
 
 An  Armstrong number of *n* digits is an integer such that the sum of its digits each one to the power of *n* is equal to the number itself.
 
-For example, 9474 is an Armstrong number as
+For example, 8208 is an Armstrong number as
 
 $$8^4 + 2^4 + 0^4 + 8^4 = 8208$$
 
