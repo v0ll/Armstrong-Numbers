@@ -10,9 +10,7 @@ All 1-digit numbers are Armstrong numbers.
 
 Write program that reads a sequence of numbers, one number per line, from the file `numbers.txt`; and:
 1) Prints the number of armstrong number found on `numbers.txt` to the terminal.
-2) Prints the armstrong numbers to the tarminal.
-
-Bonus: create a new `armstrong.txt` and write the armstrong numbers in that file, same format.
+2) Prints the armstrong numbers to the terminal.
 
 An example of `numbers.txt`:
 
@@ -35,7 +33,7 @@ An example of `numbers.txt`:
 9475
 ```
 
-The printout, or the resulting `armstrong.txt` should be:
+Example of the printout:
 
 ```
 Number of Armstrong Numbers: 10
